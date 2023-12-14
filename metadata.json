@@ -1,0 +1,8 @@
+{
+  "name": "Scenery",
+  "description": "A Gnome Extension to change your scenery and create a better suited environment for your current activitiy.",
+  "uuid": "scenery@benjamman.github.io",
+  "shell-version": [
+    "45"
+  ]
+}
